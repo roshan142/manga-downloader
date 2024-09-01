@@ -1,0 +1,5 @@
+requests
+bs4
+pillow
+fpdf
+PyPDF2
